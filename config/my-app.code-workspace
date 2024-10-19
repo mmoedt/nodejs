@@ -6,5 +6,7 @@
     ],
     "settings": {
         "typescript.reportStyleChecksAsWarnings": true,
+        "editor.acceptSuggestionOnCommitCharacter": false,
+        "editor.acceptSuggestionOnEnter": "off",
     },
 }
